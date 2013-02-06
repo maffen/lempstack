@@ -8,7 +8,7 @@ http://linuxdo.blogspot.com/2012/08/optimized-lemp-installer-for.html
 SCRTIP DOWNLOAD AND RUN
 
 ```sh
-wget https://raw.github.com/aatishnn/lempstack/master/lemp-debian.sh
+wget https://raw.github.com/maffen/lempstack/master/lemp-debian.sh
 chmod +x lemp-debian.sh
 ./lemp-debian.sh
 ```
