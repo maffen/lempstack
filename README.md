@@ -1,8 +1,14 @@
 ## Introduction
 This repository hosts a setup script that simplies the installation of LEMP stack suitable(?) for shared-like Linux environments. 
+Cloned from Aatish Neupane.
 
-Any questions or issues? Feel free to open an issue or suggest new features.
-
-Read more over at my blog:
+Read more over at Aatish Neupane's blog:
 http://linuxdo.blogspot.com/2012/08/optimized-lemp-installer-for.html
 
+SCRTIP DOWNLOAD AND RUN
+
+```sh
+wget https://raw.github.com/aatishnn/lempstack/master/lemp-debian.sh
+chmod +x lemp-debian.sh
+./lemp-debian.sh
+```
